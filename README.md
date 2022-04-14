@@ -1,3 +1,3 @@
 ### Coffe-Shop
 
-Java, JSP, MySQL
+Java, JSP, Tailwind CSS, Servlet, MySQL
